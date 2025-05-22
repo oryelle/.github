@@ -20,7 +20,7 @@ A secure and self-hostable ChatGPT alternative tailored for businesses and teams
 - 🔐 **Enforce MFA**: Enforce Multi-Factor Authentication for your users for added security.
 - 👮 **Access Control**: Control access to plugins and models by creating user groups.
 - ✓ **Plugin Confirmations**: Enforce manual user confirmations before plugins are executed to prevent accidental actions.
-- 🪵 **Logging**: Forward oryelles security logs to your SIEM.
+- 🪵 **Logging**: Forward security logs to your SIEM.
 
 **Hosting**
 
