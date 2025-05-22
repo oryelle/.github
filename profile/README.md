@@ -1,8 +1,8 @@
-![oryelle header](/assets/oryelle-banner.jpeg)
+![oryelle header](assets/oryelle-banner.jpeg)
 
 A secure and self-hostable ChatGPT alternative tailored for businesses and teams. Free for small teams and individuals! **Visit [oryelle.dev](https://oryelle.dev) to get started for free.**
 
-![oryelle home screen](/assets/conversation-start.png)
+![oryelle home screen](assets/conversation-start.png)
 
 ## Features
 
